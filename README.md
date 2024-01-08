@@ -1,2 +1,2 @@
 # IBM-Data-Science-Certification-Projects
-This repo contains answers to assignement in the IBM Data Science Certificat Professionnel
+This repo contains answers to assignements in the IBM Data Science Certificat Professionnel
